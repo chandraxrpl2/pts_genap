@@ -1,4 +1,4 @@
-# pts_genap
+
 &lt;html&gt;
 &lt;head&gt;
 &lt;title&gt;Registrasi&lt;/title&gt;
@@ -18,7 +18,6 @@
 &lt;p&gt;
 &lt;label&gt;Email:&lt;/label&gt;
 &lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;Your email...&quot; /&gt;
-
 &lt;/p&gt;
 &lt;p&gt;
 &lt;label&gt;Password:&lt;/label&gt;
