@@ -1,20 +1,38 @@
 # pts_genap
-&lt;html&gt;
-&lt;head&gt;
-&lt;title&gt;github dan html&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;h1&gt;Github dan HTML/h1&gt;
-&lt;form action=&quot;contact.php&quot; method=&quot;POST&quot;&gt;
-&lt;fieldset&gt;
-&lt;legend&gt;Registrasi&lt;/legend&gt;
-&lt;p&gt;
-&lt;label&gt;Nama:&lt;/label&gt;
-&lt;input type=&quot;text&quot; name=&quot;nama&quot; placeholder=&quot;Nama lengkap...&quot; /&gt;
-&lt;p&gt;
-&lt;input type=&quot;submit&quot; name=&quot;submit&quot; value=&quot;Daftar&quot; /&gt;
-&lt;/p&gt;
-&lt;/fieldset&gt;
-&lt;/form&gt;
-&lt;/body&gt;
-&lt;/html&gt;
+<html> 
+<head>  
+</head>
+<title>
+ptsgenap
+</title>
+<body>
+<table border="5" align="center"  width ="800"  height ="50" cellpadding="30" celllspacing="20" >
+<tr>
+  <th colspan="2" align="left">
+ SELAMAT DATANG DI HALAMAN HOME
+  </th>
+  </tr>
+<tr>          
+                <th  align="left">
+                    <pre>
+                  Nama                 &nbsp;                 :Chandra Wijaya 
+                    <br>
+                  Jenis Kelamin        &nbsp;                 :Laki Laki
+                    <br>
+                  Kelas                &nbsp;                 :X RPL 2
+                    <br>
+                  Umur                 &nbsp;                 :15
+                   <br>
+                  Agama                &nbsp;                 :Buddha
+                  <br>
+                  Hobi                 &nbsp;                 :futsal 
+                  <br>
+                  Email                &nbsp;                 :chandra.x2rpl20@cintakasihtzuchi.sch.id
+                    </pre>
+                   
+                  
+                </th>
+            </tr>
+</table>
+</body>
+</html>
